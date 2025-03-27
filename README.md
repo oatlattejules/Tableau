@@ -1,1 +1,2 @@
 # Tableau
+Used Tableau to make four data visualizations based on GDP/population data. Notable visualizations in this file include visualization #2 (a heat map of the Earth that compares population by country), and visualization #3 (similar to [this](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) Hans Rosling data visualization from his 2006 Ted Talk, *The best stats you've ever seen*). 
